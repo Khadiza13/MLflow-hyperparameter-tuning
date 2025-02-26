@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/SAYMA%20%21%21/html%2Ccss/Poridhi/HyperParameter_tuning_mlflow/mlruns/418805523916400938/8cda492f501b43668cdb9939ecce48df/artifacts
+end_time: 1740594030144
+entry_point_name: ''
+experiment_id: '418805523916400938'
+lifecycle_stage: active
+run_id: 8cda492f501b43668cdb9939ecce48df
+run_name: Titanic_RandomForest_Tuning
+run_uuid: 8cda492f501b43668cdb9939ecce48df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740593932627
+status: 3
+tags: []
+user_id: SAYMA

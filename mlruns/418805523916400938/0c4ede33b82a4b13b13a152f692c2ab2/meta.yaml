@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/SAYMA%20%21%21/html%2Ccss/Poridhi/HyperParameter_tuning_mlflow/mlruns/418805523916400938/0c4ede33b82a4b13b13a152f692c2ab2/artifacts
+end_time: 1740594117490
+entry_point_name: ''
+experiment_id: '418805523916400938'
+lifecycle_stage: active
+run_id: 0c4ede33b82a4b13b13a152f692c2ab2
+run_name: Titanic_GradientBoosting_Tuning
+run_uuid: 0c4ede33b82a4b13b13a152f692c2ab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740594030161
+status: 3
+tags: []
+user_id: SAYMA
